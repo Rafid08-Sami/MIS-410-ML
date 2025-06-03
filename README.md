@@ -1,2 +1,15 @@
-# MIS-410-ML
-In this Shiny dashboard project, I used a dataset (`advertising.csv`) containing TV, radio, and newspaper advertising budgets to predict sales using a linear regression model. The app allows users to input ad spending, generate sales predictions, and visualize how each advertising channel impacts sales with dynamic plot.
+# 📊 Sales Prediction Shiny App
+
+A simple Shiny dashboard to predict sales based on advertising budgets using linear regression.
+
+## Features
+- Real-time sales prediction based on user input.
+- Interactive plots for TV, Radio, and Newspaper ads.
+- Built using R, Shiny, ggplot2, and shinydashboard.
+
+## Files
+- `app.R`: Main Shiny application script.
+- `advertising.csv`: Dataset used for model training.
+
+## How to Run
+Open `app.R` in RStudio and click “Run App”.
